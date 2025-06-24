@@ -7,42 +7,42 @@ The Hostel Management System (HMS) is a full-stack application built with React.
 
 ## ✨ Key Features
 ### Student Portal
-Room Management:
+#### Room Management:
 View current room details
 Request room changes
 View available rooms
-Mess Management:
+#### Mess Management:
 View daily mess menu
 Apply for mess off (temporary leave from mess services)
-Service Requests:
+#### Service Requests:
 Raise requests for services (Electrical, Plumbing, Medical, Cleaning, Laundry, Maintenance, Internet)
 Track status of service requests
-Complaints:
+#### Complaints:
 Register complaints
 Track complaint status and responses
-Payments:
+#### Payments:
 View hostel fee details
 Make payments and view payment history
-Profile:
+#### Profile:
 View and update personal information
 Upload profile picture
 
 ### Admin Portal
-Dashboard:
+#### Dashboard:
 Overview of hostel statistics (students, rooms, complaints, payments, etc.)
 Student Management:
 Add, edit, or remove student records
 Assign rooms
-Room Management:
+#### Room Management:
 Add, edit, or remove rooms
 Approve or reject room change requests
-Mess Management:
+#### Mess Management:
 Update mess menu
 Manage mess off requests
-Service & Complaint Management:
+#### Service & Complaint Management:
 View and resolve service requests
 Address student complaints
-Payment Management:
+#### Payment Management:
 Track payments
 Generate payment reports
 
