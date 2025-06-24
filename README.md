@@ -47,8 +47,13 @@ Track payments
 Generate payment reports
 
 ## 🛠️ Tech Stack
-Frontend: React.js, CSS
-Backend: Node.js, Express.js
-Database: MongoDB (with Mongoose ODM)
-Authentication: JWT (JSON Web Tokens)
-Other: RESTful APIs, MVC architecture
+#### Frontend: 
+React.js, CSS
+#### Backend: 
+Node.js, Express.js
+#### Database: 
+MongoDB (with Mongoose ODM)
+#### Authentication: 
+JWT (JSON Web Tokens)
+#### Other: 
+RESTful APIs, MVC architecture
