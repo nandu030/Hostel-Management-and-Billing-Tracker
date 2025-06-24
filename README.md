@@ -2,11 +2,11 @@
 
 A comprehensive web application for managing hostel operations, designed for both students and administrators. HMS streamlines room allocation, service requests, mess management, payments, and complaint handling, providing a seamless experience for hostel residents and staff.
 
-# 🚀 Project Overview
+## 🚀 Project Overview
 The Hostel Management System (HMS) is a full-stack application built with React.js (frontend), Node.js/Express.js (backend), and MongoDB (database). It aims to digitize and automate the day-to-day operations of a hostel, making processes efficient, transparent, and user-friendly.
 
-# ✨ Key Features
-Student Portal
+## ✨ Key Features
+### Student Portal
 Room Management:
 View current room details
 Request room changes
@@ -27,7 +27,7 @@ Profile:
 View and update personal information
 Upload profile picture
 
-Admin Portal
+### Admin Portal
 Dashboard:
 Overview of hostel statistics (students, rooms, complaints, payments, etc.)
 Student Management:
@@ -46,7 +46,7 @@ Payment Management:
 Track payments
 Generate payment reports
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 Frontend: React.js, CSS
 Backend: Node.js, Express.js
 Database: MongoDB (with Mongoose ODM)
